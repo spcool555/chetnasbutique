@@ -89,4 +89,15 @@ marquee {
   color: #fff;
   font-weight: 700;
 }
+.develope{
+    display: inline-block;
+    position: absolute;
+    left: 12px;
+    justify-content: left; 
+    padding-top: 35px;
+    color:aquamarine;
+}
+.develope h5{
+  font-size: 15px;
+}
 
